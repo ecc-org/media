@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="95.999992"
-   inkscape:export-xdpi="95.999992"
-   inkscape:export-filename="/Users/richard/dev/github/ecc-org/media/pink heart/raster/heart.pink.circle.red.trasparent.500x500.png"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="/Users/richard/dev/github/ecc-org/media/heart.pink/raster/heart.pink.facebook.2021.1640x859.png"
    sodipodi:docname="heart.pink.facbook.2021.svg"
    inkscape:version="1.0 (4035a4f, 2020-05-01)"
    id="svg8"
@@ -64,14 +64,14 @@
        height="226.79977"
        width="433.43933"
        id="rect1014"
-       style="fill:#f90d2d;fill-opacity:1;stroke:#f90d2d;stroke-width:0.477316;stroke-opacity:1" />
+       style="fill:#f90d2d;fill-opacity:1;stroke:#fc607a;stroke-width:0.477316;stroke-opacity:1" />
     <path
        inkscape:export-ydpi="95.999992"
        inkscape:export-xdpi="95.999992"
        inkscape:export-filename="/Users/richard/dev/github/ecc-org/media/heart.pink/raster/heart.pink.facebook.2021.1640x859.png"
        sodipodi:nodetypes="ccccccc"
        id="path24"
-       d="M 172.35397,280.51104 C 136.22719,263.93945 109.15097,238.22331 88.034905,209.04273 70.417601,184.30028 61.538108,161.79815 59.853395,138.92715 60.89904,83.551589 129.37363,46.250111 173.03033,99.022137 217.52094,50.052814 285.90597,78.785437 285.08,139.15259 c -4.008,37.46414 -18.13379,59.35816 -32.46511,77.10461 -24.91557,31.80855 -51.74095,52.87013 -80.26092,64.25384 z"
-       style="fill:#ffb3bf;fill-opacity:1;stroke:#ffb3bf;stroke-width:0.589802px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       d="M 171.31989,257.5809 C 143.68323,244.90378 122.97016,225.23116 106.81657,202.90828 93.339474,183.98051 86.546741,166.76659 85.257948,149.27048 86.05786,106.90866 138.44032,78.373363 171.83732,118.74347 c 34.03491,-37.461072 86.34886,-15.48087 85.717,30.69946 -3.06608,28.65974 -13.87219,45.40847 -24.83553,58.98434 -19.06019,24.33327 -39.58137,40.44518 -61.3989,49.15363 z"
+       style="fill:#ffb3bf;fill-opacity:1;stroke:#fc607a;stroke-width:0.451192px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>
