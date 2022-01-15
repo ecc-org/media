@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="95.999992"
+   inkscape:export-xdpi="95.999992"
+   inkscape:export-filename="/Users/richard/dev/github/ecc-org/media/pink heart/raster/heart.pink.circular.trasparent.500x500.png"
+   sodipodi:docname="heart.pink.circle.red.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 132.29167 132.29167"
+   height="132.29167mm"
+   width="132.29167mm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1200"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="194.67781"
+     inkscape:cx="37.600938"
+     inkscape:zoom="7.834174"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-12.331504,-54.699287)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <circle
+       r="65.980156"
+       cy="120.84512"
+       cx="78.477341"
+       id="path905"
+       style="fill:#f90d2d;fill-opacity:1;stroke:#f90d2d;stroke-width:0.331361;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       id="path24"
+       d="m 77.893929,181.53263 c -18.592061,-8.5283 -32.526392,-21.76269 -43.39343,-36.78 C 25.434041,132.01933 20.864355,120.43898 19.997345,108.66879 20.535469,80.170664 55.774797,60.974067 78.242007,88.132329 101.13837,62.931066 136.33161,77.717842 135.90654,108.78481 c -2.06265,19.28031 -9.33226,30.54771 -16.70764,39.68063 -12.82239,16.36975 -26.627634,27.20875 -41.304971,33.06719 z"
+       style="fill:#ffb3bf;fill-opacity:1;stroke:#ffb3bf;stroke-width:0.303532px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>
