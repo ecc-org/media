@@ -9,35 +9,36 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
-   inkscape:export-filename="/Users/richard/dev/github/ecc-org/media/heart.pink/raster/heart.pink.facebook.2021.1640x859.png"
-   sodipodi:docname="heart.pink.facbook.2021.svg"
+   inkscape:export-filename="/Users/richard/dev/github/ecc-org/media/heart.pink/raster/heart.pink.facebook.group.banner.1640x856.png"
+   sodipodi:docname="heart.pink.facbook.group.banner.svg"
    inkscape:version="1.0 (4035a4f, 2020-05-01)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 433.91665 227.27708"
-   height="227.27708mm"
-   width="433.91666mm">
+   viewBox="0 0 433.91662 226.48333"
+   height="226.48334mm"
+   width="433.91663mm">
   <defs
      id="defs2" />
   <sodipodi:namedview
      inkscape:window-maximized="0"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-x="0"
-     inkscape:window-height="1200"
+     inkscape:window-height="1147"
      inkscape:window-width="1920"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="489.63134"
-     inkscape:cx="812.30658"
+     inkscape:cy="492.63326"
+     inkscape:cx="829.56758"
      inkscape:zoom="0.66624169"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base" />
+     id="base"
+     showguides="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -51,7 +52,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(45.549434,-64.812726)"
+     transform="translate(45.549432,-64.812724)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
@@ -59,19 +60,19 @@
        inkscape:export-ydpi="95.999992"
        inkscape:export-xdpi="95.999992"
        inkscape:export-filename="/Users/richard/dev/github/ecc-org/media/heart.pink/raster/heart.pink.facebook.2021.1640x859.png"
-       y="65.051384"
-       x="-45.310776"
-       height="226.79977"
-       width="433.43933"
+       y="65.050964"
+       x="-45.311192"
+       height="226.00685"
+       width="433.44016"
        id="rect1014"
-       style="fill:#f90d2d;fill-opacity:1;stroke:#fc607a;stroke-width:0.477316;stroke-opacity:1" />
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.476481;stroke-opacity:1" />
     <path
        inkscape:export-ydpi="95.999992"
        inkscape:export-xdpi="95.999992"
        inkscape:export-filename="/Users/richard/dev/github/ecc-org/media/heart.pink/raster/heart.pink.facebook.2021.1640x859.png"
        sodipodi:nodetypes="ccccccc"
        id="path24"
-       d="M 171.31989,257.5809 C 143.68323,244.90378 122.97016,225.23116 106.81657,202.90828 93.339474,183.98051 86.546741,166.76659 85.257948,149.27048 86.05786,106.90866 138.44032,78.373363 171.83732,118.74347 c 34.03491,-37.461072 86.34886,-15.48087 85.717,30.69946 -3.06608,28.65974 -13.87219,45.40847 -24.83553,58.98434 -19.06019,24.33327 -39.58137,40.44518 -61.3989,49.15363 z"
-       style="fill:#ffb3bf;fill-opacity:1;stroke:#fc607a;stroke-width:0.451192px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       d="M 171.31989,257.18402 C 143.68323,244.5069 122.97016,224.83428 106.81657,202.5114 93.339472,183.58363 86.546739,166.36971 85.257946,148.8736 c 0.799912,-42.36182 53.182374,-70.897116 86.579374,-30.52701 34.03491,-37.461071 86.34886,-15.48087 85.717,30.69946 -3.06608,28.65974 -13.87219,45.40847 -24.83553,58.98434 -19.06019,24.33327 -39.58137,40.44518 -61.3989,49.15363 z"
+       style="fill:#ffb3bf;fill-opacity:1;stroke:#ffb3bf;stroke-width:0.45119199999999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>
